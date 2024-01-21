@@ -3,7 +3,8 @@ Certainly! Here's the README updated with the name "SkizmPy" for your lightweigh
 ```markdown
 # SkizmPy: Lightweight Graphics Engine
 
-![Screenshot](screenshot.png)
+![Screenshot](![Screenshot 2024-01-21 12:22:57](https://github.com/LurkyLunk/SkizmPy/assets/131907841/c7b6bd8e-2eec-48dd-8c5b-f734e3d3a90e)
+)
 
 ## Overview
 
