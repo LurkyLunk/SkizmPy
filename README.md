@@ -117,4 +117,4 @@ Special thanks to the Pygame and PyOpenGL communities for providing excellent li
 Happy coding with SkizmPy!
 ```
 
-Replace "your-username" with your actual GitHub username, and customize any other details to match your project. This updated README is tailored for your "SkizmPy" graphics engine.
+
